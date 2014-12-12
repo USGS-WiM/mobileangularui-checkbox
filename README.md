@@ -1,6 +1,12 @@
 # This is a modified version specifically for mobile angular ui, which uses font awesome instead of glyphicons.
 
 
+To install:
+
+bower install mobileangularui-checkbox
+
+
+
 angular-bootstrap-checkbox
 ==========================
 

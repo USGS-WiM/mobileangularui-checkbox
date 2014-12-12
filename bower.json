@@ -1,12 +1,12 @@
 {
-  "name": "angular-mobileui-checkbox",
-  "version": "0.1.1",
+  "name": "mobileangularui-checkbox",
+  "version": "0.3.1",
   "authors": [
     "Alexander Lowe, Lowe Software",
     "Sebastian Hammerl, Getslash GmbH"
   ],
-  "description": "A checkbox for Mobile Angular UI",
-  "main": "angular-bootstrap-checkbox.js",
+  "description": "A fancy checkbox for Mobile Angular UI",
+  "main": "mobileangularui-checkbox.js",
   "keywords": [
     "angular",
     "angularjs",
@@ -15,7 +15,6 @@
     "mobileangularui",
     "directive",
     "ui",
-    "bootstrap",
     "form",
     "input",
     "checkbox"

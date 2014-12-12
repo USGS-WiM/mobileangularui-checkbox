@@ -1,3 +1,6 @@
+# This is a modified version specifically for mobile angular ui, which uses font awesome instead of glyphicons.
+
+
 angular-bootstrap-checkbox
 ==========================
 

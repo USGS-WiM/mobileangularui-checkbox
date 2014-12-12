@@ -1,6 +1,6 @@
 "use strict";
 
-angular.module("angular-bootstrap-checkbox-test", ["ui.checkbox"]).controller("index", function($scope) {
+angular.module("angular-bootstrap-checkbox-test", ['mobile-angular-ui', 'ui.checkbox']).controller("index", function($scope) {
 	$scope.checkboxModel = [
 		false, false, false,false, false, false, false, false, true, false, true
 	];

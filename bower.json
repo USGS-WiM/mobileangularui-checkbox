@@ -1,14 +1,18 @@
 {
-  "name": "angular-bootstrap-checkbox",
-  "version": "0.3.1",
+  "name": "mobileangularui-bootstrap-checkbox",
+  "version": "0.1.1",
   "authors": [
+    "Alexander Lowe, Lowe Software",
     "Sebastian Hammerl, Getslash GmbH"
   ],
-  "description": "A checkbox for AngularJS styled to fit the Twitter Bootstrap standard design",
+  "description": "A checkbox for Mobile Angular UI",
   "main": "angular-bootstrap-checkbox.js",
   "keywords": [
     "angular",
     "angularjs",
+    "mobile",
+    "fontawesome",
+    "mobileangularui",
     "directive",
     "ui",
     "bootstrap",
@@ -24,7 +28,7 @@
   ],
   "dependencies": {
     "angular": ">= 1.2.0",
-    "bootstrap": ">= 3.0.0"
+    "mobile-angular-ui": ">= 0.0.0"
   },
   "devDependencies": {
     "angular-scenario": ">= 1.2.0"

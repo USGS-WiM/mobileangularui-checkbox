@@ -5,6 +5,10 @@
     "Alexander Lowe, Lowe Software",
     "Sebastian Hammerl, Getslash GmbH"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USGS-WiM/mobileangularui-checkbox.git"
+  },
   "description": "A fancy checkbox for Mobile Angular UI",
   "main": "mobileangularui-checkbox.js",
   "keywords": [

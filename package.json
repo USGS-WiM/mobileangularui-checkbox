@@ -1,0 +1,35 @@
+{
+  "name": "mobileangularui-checkbox",
+  "version": "1.0.0",
+  "authors": [
+    "Alexander Lowe, Lowe Software",
+    "Sebastian Hammerl, Getslash GmbH"
+  ],
+  "description": "A fancy checkbox for Mobile Angular UI",
+  "main": "mobileangularui-checkbox.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "mobile",
+    "fontawesome",
+    "mobileangularui",
+    "directive",
+    "ui",
+    "form",
+    "input",
+    "checkbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.0",
+    "mobile-angular-ui": ">= 0.0.0"
+  },
+  "devDependencies": {
+    "angular-scenario": ">= 1.2.0"
+  }
+}
